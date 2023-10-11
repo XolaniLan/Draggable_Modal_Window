@@ -1,6 +1,7 @@
 # Draggable_Modal_Window
 
-You can drag the modal window up and down.
+Click button to open modal window and you can drag the modal window up and down.
+Close the modal window buy clicking any where in the scren or by dragging the modal window down
 Developed using:
 html, css and javascript
 
